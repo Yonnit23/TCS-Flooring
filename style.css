@@ -33,8 +33,9 @@ header {
 }
 
 .logo img {
-  height: 50px;
-  border-radius: 50%;
+  height: auto;
+  width: 200px;
+  border-radius: 8px;
 }
 
 .main-nav {
